@@ -19,6 +19,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,4 +50,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
