@@ -21,6 +21,7 @@
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,4 +57,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
