@@ -28,6 +28,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -53,6 +54,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -81,6 +83,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -99,6 +102,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Dynamic Programming
@@ -122,6 +126,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
