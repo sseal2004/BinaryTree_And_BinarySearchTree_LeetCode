@@ -31,6 +31,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
@@ -51,6 +52,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -76,6 +78,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
@@ -109,6 +112,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Array
 |  |
