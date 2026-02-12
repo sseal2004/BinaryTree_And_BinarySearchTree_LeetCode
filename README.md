@@ -8,6 +8,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -62,6 +64,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -94,6 +97,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -136,6 +140,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Array
