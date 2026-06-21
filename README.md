@@ -119,6 +119,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -146,6 +147,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
