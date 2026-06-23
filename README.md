@@ -115,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
