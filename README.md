@@ -148,6 +148,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sseal2004/BinaryTree_LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
